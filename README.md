@@ -1,4 +1,4 @@
-# Tarea #4
+# Pruebas Automatizadas con Selenium (Corotos)
 
 1. El reporte en html es el llamado "repot.html" dentro de la carpeta "Automatizacion"
 2. Las capturas estan dentro de la carpeta llamada "capturas" dentro de la carpeta de "Automatizacion"
